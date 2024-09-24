@@ -1,3 +1,7 @@
 sathish-->committing to local
 
+<<<<<<< HEAD
 Hi copy2
+=======
+test TWo printing!!!
+>>>>>>> origin/master
